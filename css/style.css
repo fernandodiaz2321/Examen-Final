@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 2px;
+}
+:root{
+	--verde:#007042;
+	--gris:#8f8f8f;
+	--negro:#000;
+	--f7-theme-color:#16CCC6;
+    --f7-navbar-bg-color: #16CCC6; /*navbar*/
+    --f7-navbar-text-color:#fff;
+    --f7-bars-bg-color:#004979;/*toolbar*/
+}
+
+.navbar .material-icons{
+	color: #fff !important;
+}
+
+.bg-card{
+	background-color: rgba(22,204,198,0.60);
+	color: #fff;
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+.info{
+	align-content: center;
+	text-align: center;
+}
+
+.productos .item-media img{
+	width: 80px;
+}
+
+.title{
+	color: #fff;
+}
+
+#producto .block-title{
+	margin-top: 80%;
+	font-size: 15px;
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+}
+
+#perfil img{
+	width: 150px;
+	align-content: center;
+	text-align: center;
+	margin-left: 30%;
+}
+
+#perfil .card{
+	padding: 15% 0;
+	
+}
+
+.imagen{
+	text-align: center;
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
